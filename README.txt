@@ -1,0 +1,9 @@
+#api
+    controller
+        base
+        home_controller
+        routes
+    middlewares
+        middlewares
+    responses
+        json
